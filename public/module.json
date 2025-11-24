@@ -1,0 +1,42 @@
+{
+  "id": "t20artonmap",
+  "title": "Mapa Interativo de Arton",
+  "description": "Um mapa interativo do mundo de Arton para Tormenta20.",
+  "version": "0.0.1",
+
+  "authors": [
+    {
+      "name": "Crystofher Lins",
+      "email": "",
+      "url": "https://portfolio-react-five-tawny.vercel.app/"
+    }
+  ],
+
+  "compatibility": {
+    "verified": "13.350"
+  },
+
+  "esmodules": ["index.js"],
+
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "readme": "README.md",
+  "license": "MIT",
+
+  "bugs": {
+    "url": ""
+  },
+
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {
+          "verified": "1.5.012"
+        }
+      }
+    ]
+  }
+}
