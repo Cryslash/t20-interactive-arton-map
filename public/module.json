@@ -18,14 +18,14 @@
 
   "esmodules": ["index.js"],
 
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/Cryslash/t20-interactive-arton-map",
+  "manifest": "https://raw.githubusercontent.com/Cryslash/t20-interactive-arton-map/refs/heads/main/public/module.json",
+  "download": "https://github.com/Cryslash/t20-interactive-arton-map/releases/download/v0.0.1/t20artonmap.zip",
   "readme": "README.md",
   "license": "MIT",
 
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Cryslash/t20-interactive-arton-map/issues"
   },
 
   "relationships": {
